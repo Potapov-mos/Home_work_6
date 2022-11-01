@@ -16,10 +16,7 @@ void NumbersGreaterZero()
 {
     for (int i = 0; i < arr.Length; i++)
     {
-        if (arr[i] > 0)
-        {
-            count++;
-        }
+        if (arr[i] > 0) count++;
     }
     Console.Write($"Кол-во чисел больше 0: {count}");
 }
