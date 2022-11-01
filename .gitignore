@@ -86,6 +86,7 @@ StyleCopReport.xml
 *.pgd
 *.rsp
 *.sbr
+*.Tast_41
 *.tlb
 *.tli
 *.tlh
